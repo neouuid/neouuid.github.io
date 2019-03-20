@@ -1,12 +1,12 @@
 # site settings
-title: "Neohope's Github Pages" 
+title: "Neouuid's Github Pages" 
 description: "I am here to learn and share."
 baseurl: ""
-url: "http://git.neohope.com"
+url: "http://git.neouuid.com"
 
 # contact info
-# email: neohope@yahoo.com
-github_username: neohope
+# email: neouuid@gmail.com
+github_username: neouuid
 
 # build settings
 markdown: kramdown
