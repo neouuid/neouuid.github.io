@@ -1,0 +1,29 @@
+# site settings
+title: "Neohope's Github Pages" 
+description: "I am here to learn and share."
+baseurl: ""
+url: "http://git.neohope.com"
+
+# contact info
+# email: neohope@yahoo.com
+github_username: neohope
+
+# build settings
+markdown: kramdown
+theme: minima
+
+#
+page:
+  list_title:"文章列表"
+
+#exclude
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
